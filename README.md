@@ -1,6 +1,5 @@
-### Hi there 👋
 
-👋 Welcome to my GitHub profile! I'm Jatin, pursuing a Master of Science in Information Systems at Northeastern University in Boston, MA.
+👋 Hi there, I'm Jatin, pursuing a Master of Science in Information Systems at Northeastern University in Boston, MA.
 
 🎓 Education: I hold a Bachelor of Technology in Electronics from MIT Academy of Engineering, Pune, India, and I'm expected to graduate with my master's degree in May 2024.
 
